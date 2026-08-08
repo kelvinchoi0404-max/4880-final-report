@@ -1,0 +1,5 @@
+split,real_images,ai_images,total_images
+test_clean,995,1770,2765
+test_robust,4975,8850,13825
+train,7957,14156,22113
+val,995,1770,2765

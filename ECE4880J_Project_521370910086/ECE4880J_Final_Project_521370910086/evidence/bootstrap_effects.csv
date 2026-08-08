@@ -1,0 +1,4 @@
+effect,mean,ci_low,ci_high,bootstrap_iterations,bootstrap_unit
+Clean AUC: Robust - Standard,-0.010322173624506575,-0.015150249762944417,-0.0058041952431602765,2000,source image
+Transformed AUC: Robust - Standard,0.009114480654603848,0.004000257627340445,0.014027886832685244,2000,source image
+Reduction in robustness gap,0.019436654279110423,0.016985958046495882,0.02199591127807667,2000,source image

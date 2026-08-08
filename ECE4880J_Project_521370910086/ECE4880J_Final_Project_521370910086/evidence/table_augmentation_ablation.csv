@@ -1,0 +1,6 @@
+﻿Training augmentation,Best epoch,Clean AUC,Trans. AUC,AUC drop (pp),Trans. Macro-F1,Trans. real FPR
+Standard,10,97.28,94.71,2.57,86.74,12.50
+JPEG only,10,97.05,95.24,1.82,88.06,11.02
+Blur only,8,97.18,95.93,1.26,88.91,9.71
+Noise only,10,97.14,95.83,1.31,88.84,15.98
+Combined robust,9,96.25,95.62,0.62,88.09,10.87
